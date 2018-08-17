@@ -1,3 +1,4 @@
-ablteon version:'Ableton Live 8.2.5'nexternal devices:
+ablteon version:'Ableton Live 8.2.5
+external devices:
 10 Element of Surprise; 9 MEqualizer; 3 Punch; 3 OneKnob Louder Stereo; 2 Albino3; 1 OneKnob Phatter Stereo; internal devices:
 168 PluginDevice; 114 StereoGain; 66 Reverb; 36 PingPongDelay; 18 Compressor2; 18 OriginalSimpler; 12 AudioEffectGroupDevice; 12 Limiter; 6 Phaser; 6 AutoPan; 

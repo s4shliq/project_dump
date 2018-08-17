@@ -1,3 +1,4 @@
-ablteon version:'Ableton Live 8.3.1'nexternal devices:
+ablteon version:'Ableton Live 8.3.1
+external devices:
 6 dblue_Glitch_v1_3; 1 MEqualizer; internal devices:
 104 StereoGain; 72 Eq8; 56 Reverb; 20 Compressor2; 18 Saturator; 16 InstrumentImpulse; 16 AutoFilter; 14 PluginDevice; 14 AudioEffectGroupDevice; 12 PingPongDelay; 8 Gate; 6 Tube; 6 OriginalSimpler; 6 BeatRepeat; 4 Redux; 2 Chorus; 2 AutoPan; 

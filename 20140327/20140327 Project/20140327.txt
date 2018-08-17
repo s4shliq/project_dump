@@ -1,3 +1,4 @@
-ablteon version:'Ableton Live 8.2.5'nexternal devices:
+ablteon version:'Ableton Live 8.2.5
+external devices:
 15 MEqualizer; 14 Zebra2; internal devices:
 58 PluginDevice; 34 StereoGain; 20 Saturator; 8 InstrumentImpulse; 8 Compressor2; 8 PingPongDelay; 4 MidiVelocity; 4 Reverb; 4 AudioEffectGroupDevice; 2 AutoFilter; 2 AutoPan; 

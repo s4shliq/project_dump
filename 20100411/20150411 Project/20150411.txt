@@ -1,3 +1,4 @@
-ablteon version:'Ableton Live 9.1.3'nexternal devices:
+ablteon version:'Ableton Live 9.1.3
+external devices:
 9 MEqualizer; 4 Albino 3; 2 Punch-BD; 1 SubBoomBass; internal devices:
 60 AuPluginDevice; 56 StereoGain; 16 Saturator; 16 GlueCompressor; 12 InstrumentImpulse; 12 PingPongDelay; 8 Reverb; 8 AudioEffectGroupDevice; 8 Gate; 4 PluginDevice; 

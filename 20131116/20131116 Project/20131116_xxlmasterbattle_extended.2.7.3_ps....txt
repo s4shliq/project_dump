@@ -1,3 +1,4 @@
-ablteon version:'Ableton Live 8.2.5'nexternal devices:
+ablteon version:'Ableton Live 8.2.5
+external devices:
 3 Q1 Stereo; 1 C6 Stereo; 1 L3 UltraMaximizer Stereo; 1 OneKnob Phatter Stereo; 1 OneKnob Louder Stereo; 1 D82 Sonic Maximizer; 1 bx_digital V2; 1 Oxford Inflator Native; internal devices:
 80 PluginDevice; 16 StereoGain; 16 Compressor2; 16 Eq8; 16 Limiter; 8 AudioEffectGroupDevice; 8 SpectrumAnalyzer; 

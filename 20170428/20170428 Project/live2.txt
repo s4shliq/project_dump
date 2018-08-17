@@ -1,3 +1,4 @@
-ablteon version:'Ableton Live 9.7.1'nexternal devices:
+ablteon version:'Ableton Live 9.7.1
+external devices:
 19 Albino 3; 17 MEqualizer; internal devices:
 72 PluginDevice; 54 StereoGain; 36 Saturator; 16 Compressor2; 10 InstrumentImpulse; 10 PingPongDelay; 6 AutoFilter; 4 MidiVelocity; 4 Reverb; 4 AudioEffectGroupDevice; 2 CrossDelay; 

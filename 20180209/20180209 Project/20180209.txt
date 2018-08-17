@@ -1,3 +1,4 @@
-ablteon version:'Ableton Live 9.7.1'nexternal devices:
+ablteon version:'Ableton Live 9.7.1
+external devices:
 6 Zebra2; 4 MEqualizer; internal devices:
 20 PluginDevice; 8 StereoGain; 6 Compressor2; 2 Reverb; 2 Saturator; 2 CrossDelay; 

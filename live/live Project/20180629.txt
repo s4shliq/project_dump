@@ -1,3 +1,4 @@
-ablteon version:'Ableton Live 9.5'nexternal devices:
+ablteon version:'Ableton Live 9.5
+external devices:
 28 MEqualizer; 12 Go2; 4 PunchBox; internal devices:
 162 StereoGain; 132 PluginDevice; 63 Saturator; 51 Compressor2; 24 PingPongDelay; 15 MidiVelocity; 12 Reverb; 12 AutoFilter; 12 AudioEffectGroupDevice; 9 InstrumentImpulse; 9 Gate; 3 Flanger; 3 CrossDelay; 3 AutoPan; 3 SpectrumAnalyzer; 3 Limiter; 

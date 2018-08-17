@@ -1,3 +1,4 @@
-ablteon version:'Ableton Live 8.2.5'nexternal devices:
+ablteon version:'Ableton Live 8.2.5
+external devices:
 13 MEqualizer; 1 CLA Vocals Stereo; 1 Omnisphere; 1 dblue_Glitch_v1_3; 1 PunchMulti; 1 JJP-Vocals Stereo; internal devices:
 144 StereoGain; 108 PluginDevice; 60 Reverb; 42 Saturator; 42 AutoFilter; 30 Compressor2; 24 Gate; 24 AudioEffectGroupDevice; 18 OriginalSimpler; 18 PingPongDelay; 12 CrossDelay; 6 MidiVelocity; 6 Erosion; 

@@ -1,3 +1,4 @@
-ablteon version:'Ableton Live 9.1'nexternal devices:
+ablteon version:'Ableton Live 9.1
+external devices:
 5 RC 48; 2 Massive; 1 minimoog V; 1 Tremolator; 1 Blue; 1 MLimiter; 1 PhaseMistress; 1 Zebra2; internal devices:
 192 Eq8; 104 PluginDevice; 72 OriginalSimpler; 64 StereoGain; 24 SpectrumAnalyzer; 16 Operator; 16 Compressor2; 16 PingPongDelay; 8 Reverb; 8 AutoFilter; 8 GlueCompressor; 8 InstrumentGroupDevice; 8 DrumGroupDevice; 

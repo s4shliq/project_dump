@@ -1,3 +1,4 @@
-ablteon version:'Ableton Live 8.2.5'nexternal devices:
+ablteon version:'Ableton Live 8.2.5
+external devices:
 14 MEqualizer; 12 Albino3; 6 Blue; 1 Punch; 1 Dark Star Modular 4OSC; 1 Element of Surprise; internal devices:
 210 PluginDevice; 144 StereoGain; 60 Saturator; 48 Reverb; 42 PingPongDelay; 12 Compressor2; 6 InstrumentImpulse; 6 Gate; 6 OriginalSimpler; 6 MidiVelocity; 6 AutoFilter; 6 AudioEffectGroupDevice; 6 AutoPan; 
