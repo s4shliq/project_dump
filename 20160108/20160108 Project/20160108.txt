@@ -1,3 +1,3 @@
-external devices:
+ablteon version:'Ableton Live 9.5'nexternal devices:
 10 Albino 3; 8 MEqualizer; internal devices:
 36 AuPluginDevice; 24 StereoGain; 8 Compressor2; 8 Saturator; 4 PingPongDelay; 2 Reverb; 2 CrossDelay; 

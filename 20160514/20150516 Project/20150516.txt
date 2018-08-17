@@ -1,3 +1,3 @@
-external devices:
+ablteon version:'Ableton Live 9.5'nexternal devices:
 5 Massive; 2 Chromaphone; 1 MEqualizer; 1 Synplant; internal devices:
 52 StereoGain; 36 AuPluginDevice; 28 Saturator; 16 AutoFilter; 12 PingPongDelay; 12 Eq8; 8 Reverb; 8 Compressor2; 4 CrossDelay; 

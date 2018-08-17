@@ -1,3 +1,3 @@
-external devices:
+ablteon version:'Ableton Live 8.3'nexternal devices:
 24 MEqualizer; 12 Alchemy; internal devices:
 84 StereoGain; 72 PluginDevice; 40 Saturator; 22 PingPongDelay; 20 Reverb; 14 AudioEffectGroupDevice; 10 MultibandDynamics; 8 OriginalSimpler; 8 AutoFilter; 6 Chorus; 6 Compressor2; 4 Gate; 4 Corpus; 4 AutoPan; 2 InstrumentImpulse; 2 Eq8; 2 FrequencyShifter; 

@@ -1,3 +1,3 @@
-external devices:
+ablteon version:'Ableton Live 8.2.5'nexternal devices:
 7 MEqualizer; 3 Zebra2; 2 Element of Surprise; 1 Punch; 1 Dark Star Modular 4OSC; 1 Glass Viper; 1 PunchMulti; internal devices:
 112 PluginDevice; 77 StereoGain; 28 Saturator; 28 Compressor2; 28 AutoFilter; 21 Reverb; 14 Gate; 14 PingPongDelay; 14 AutoPan; 7 InstrumentImpulse; 7 OriginalSimpler; 7 MidiVelocity; 7 BeatRepeat; 7 AudioEffectGroupDevice; 

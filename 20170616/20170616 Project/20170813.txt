@@ -1,3 +1,3 @@
-external devices:
+ablteon version:'Ableton Live 9.7.1'nexternal devices:
 9 MPowerSynth; 5 MEqualizer; 2 Kick 2; internal devices:
 48 PluginDevice; 36 StereoGain; 21 Saturator; 18 Compressor2; 6 AutoFilter; 3 Reverb; 3 CrossDelay; 

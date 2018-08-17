@@ -1,3 +1,3 @@
-external devices:
+ablteon version:'Ableton Live 9.7.1'nexternal devices:
 4 MEqualizer; 2 808 Bass Module2; 1 MPowerSynth; 1 Punch-BD; internal devices:
 32 PluginDevice; 20 StereoGain; 4 Reverb; 4 AutoFilter; 4 PingPongDelay; 

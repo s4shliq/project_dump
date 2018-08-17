@@ -1,3 +1,3 @@
-external devices:
+ablteon version:'Ableton Live 8.2.5'nexternal devices:
 19 MEqualizer; 4 Blue; 1 UltraPitch 6 Voices Mono/Stereo; 1 Alchemy; 1 Albino3; 1 dblue_Glitch_v1_3; 1 JJP-Vocals Stereo; internal devices:
 196 StereoGain; 196 PluginDevice; 70 Saturator; 63 Reverb; 42 OriginalSimpler; 28 Compressor2; 28 PingPongDelay; 21 MidiVelocity; 21 AudioEffectGroupDevice; 7 Gate; 

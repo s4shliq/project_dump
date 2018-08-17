@@ -1,3 +1,3 @@
-external devices:
+ablteon version:'Ableton Live 8.2.5'nexternal devices:
 24 MEqualizer; 14 Albino3; 2 Vocal Rider Stereo; 1 Alchemy; 1 SynplantVST; 1 RVox Stereo; 1 TrueVerb Stereo; 1 JJP-Vocals Stereo; internal devices:
 392 StereoGain; 360 PluginDevice; 152 Saturator; 96 Compressor2; 64 Reverb; 56 PingPongDelay; 40 InstrumentImpulse; 24 MidiVelocity; 24 AudioEffectGroupDevice; 24 Gate; 16 AutoFilter; 

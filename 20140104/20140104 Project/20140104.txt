@@ -1,2 +1,2 @@
-external devices:
+ablteon version:'Ableton Live 8.2.5'nexternal devices:
 internal devices:
