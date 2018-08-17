@@ -9,14 +9,14 @@ ll time stats for ableton files only:
 
 
 processed projects: '167'<br>
-ignored projects (deprecated version < ableton 8.0): '204'
-oldest project: '01/12/2005'
-latest project: '08/17/2018'
-average tracks per project: '21'
-total midi tracks: '2352'
-total audio tracks: '878'
-total group tracks: '276'
-total devices used: '18649'
+ignored projects (deprecated version < ableton 8.0): '204'<br>
+oldest project: '01/12/2005'<br>
+latest project: '08/17/2018'<br>
+average tracks per project: '21'<br>
+total midi tracks: '2352'<br>
+total audio tracks: '878'<br>
+total group tracks: '276'<br>
+total devices used: '18649'<br>
 
 
 external devices:
