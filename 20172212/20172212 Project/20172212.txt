@@ -1,0 +1,3 @@
+external devices:
+19 MEqualizer; 13 Albino 3; 4 Kick 2; internal devices:
+108 PluginDevice; 84 StereoGain; 39 Saturator; 15 AutoFilter; 15 Compressor2; 12 PingPongDelay; 9 MidiVelocity; 9 Reverb; 9 AudioEffectGroupDevice; 

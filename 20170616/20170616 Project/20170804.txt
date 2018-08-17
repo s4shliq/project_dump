@@ -1,0 +1,3 @@
+external devices:
+15 MEqualizer; 14 MPowerSynth; 2 Kick 2; internal devices:
+93 PluginDevice; 75 StereoGain; 30 Saturator; 21 AutoFilter; 21 Compressor2; 12 PingPongDelay; 6 Reverb; 3 AudioEffectGroupDevice; 3 CrossDelay; 
