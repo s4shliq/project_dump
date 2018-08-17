@@ -1,0 +1,3 @@
+external devices:
+2 Punch; 1 Dark Star Modular 4OSC; 1 MEqualizer; 1 Element of Surprise; internal devices:
+20 StereoGain; 20 PluginDevice; 8 Saturator; 8 Compressor2; 4 Reverb; 

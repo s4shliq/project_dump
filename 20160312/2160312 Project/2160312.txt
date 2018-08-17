@@ -1,0 +1,3 @@
+external devices:
+5 Albino 3; 5 MEqualizer; 2 Punch-BD; internal devices:
+36 AuPluginDevice; 27 StereoGain; 6 Reverb; 6 Saturator; 6 PingPongDelay; 3 Compressor2; 3 CrossDelay; 

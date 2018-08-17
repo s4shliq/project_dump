@@ -1,0 +1,3 @@
+external devices:
+12 MEqualizer; 12 Zebra2; 1 Vocal Rider Stereo; 1 The Kings Microphones Stereo; 1 JJP-Vocals Stereo; internal devices:
+150 StereoGain; 135 PluginDevice; 70 Saturator; 35 Compressor2; 30 InstrumentImpulse; 25 PingPongDelay; 20 Reverb; 15 MidiVelocity; 10 AudioEffectGroupDevice; 5 AutoPan; 

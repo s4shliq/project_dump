@@ -1,0 +1,3 @@
+external devices:
+6 dblue_Glitch_v1_3; internal devices:
+50 StereoGain; 37 Eq8; 28 Reverb; 10 Compressor2; 8 InstrumentImpulse; 8 Saturator; 8 AutoFilter; 7 AudioEffectGroupDevice; 6 PluginDevice; 6 PingPongDelay; 4 Gate; 3 Tube; 3 OriginalSimpler; 3 BeatRepeat; 2 Redux; 1 Chorus; 1 AutoPan; 

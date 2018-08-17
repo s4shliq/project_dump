@@ -1,0 +1,3 @@
+external devices:
+13 MEqualizer; 8 Reaktor5; 1 Vocal Rider Stereo; 1 UltraPitch 6 Voices Mono/Stereo; 1 dblue_Glitch_v1_3; 1 JJP-Vocals Stereo; 1 DeEsser Stereo; internal devices:
+182 PluginDevice; 119 StereoGain; 56 Compressor2; 49 Saturator; 42 Reverb; 14 InstrumentImpulse; 14 PingPongDelay; 7 AutoFilter; 7 AutoPan; 

@@ -1,0 +1,3 @@
+external devices:
+5 MEqualizer; 5 Reaktor5; 2 Punch; internal devices:
+42 StereoGain; 36 PluginDevice; 24 Saturator; 12 Reverb; 9 Compressor2; 9 OriginalSimpler; 9 AutoPan; 6 Gate; 6 AutoFilter; 6 PingPongDelay; 3 Vinyl; 3 InstrumentImpulse; 3 AudioEffectGroupDevice; 

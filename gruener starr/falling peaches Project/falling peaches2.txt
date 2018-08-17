@@ -1,0 +1,3 @@
+external devices:
+21 MEqualizer; 7 Element of Surprise; 5 Blue; 4 Punch; 3 Albino3; internal devices:
+200 PluginDevice; 190 StereoGain; 160 OriginalSimpler; 65 Compressor2; 60 Reverb; 60 Saturator; 40 PingPongDelay; 15 AutoFilter; 10 Amp; 10 InstrumentImpulse; 5 MultiSampler; 5 MidiVelocity; 5 AudioEffectGroupDevice; 5 AutoPan; 5 DrumGroupDevice; 

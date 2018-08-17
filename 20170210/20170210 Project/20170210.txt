@@ -1,0 +1,3 @@
+external devices:
+12 Albino 3; 10 MEqualizer; internal devices:
+44 AuPluginDevice; 34 StereoGain; 22 Compressor2; 20 Saturator; 10 InstrumentImpulse; 4 MidiVelocity; 4 AutoFilter; 4 Reverb; 2 PingPongDelay; 2 CrossDelay; 

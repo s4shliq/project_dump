@@ -1,0 +1,3 @@
+external devices:
+28 MEqualizer; 5 Albino3; 4 Sylenth1; 1 JJP-Vocals Stereo; internal devices:
+152 PluginDevice; 132 StereoGain; 96 Saturator; 60 Reverb; 44 InstrumentImpulse; 32 Compressor2; 20 PingPongDelay; 8 AudioEffectGroupDevice; 8 AutoPan; 4 MidiVelocity; 4 Resonator; 4 OriginalSimpler; 

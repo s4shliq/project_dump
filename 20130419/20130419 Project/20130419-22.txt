@@ -1,0 +1,3 @@
+external devices:
+8 Nexus; 7 MEqualizer; 2 Glass Viper; 2 Element of Surprise; 1 Punch; 1 Albino3; internal devices:
+126 PluginDevice; 84 StereoGain; 48 Saturator; 24 Reverb; 18 Compressor2; 12 PingPongDelay; 12 OriginalSimpler; 6 AudioEffectGroupDevice; 6 Gate; 

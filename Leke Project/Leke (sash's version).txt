@@ -1,0 +1,3 @@
+external devices:
+14 MEqualizer; 11 RC 48; 3 Blue; 1 MLimiter; 1 Punch-BD; internal devices:
+135 StereoGain; 95 Eq8; 90 AuPluginDevice; 60 PluginDevice; 55 Reverb; 50 OriginalSimpler; 40 Compressor2; 35 Saturator; 20 PingPongDelay; 10 Gate; 10 AudioEffectGroupDevice; 5 Operator; 5 AutoFilter; 5 GlueCompressor; 5 DrumGroupDevice; 5 SpectrumAnalyzer; 

@@ -1,0 +1,3 @@
+external devices:
+3 MEqualizer; 3 Albino3; 1 Alchemy; 1 PunchMulti; internal devices:
+32 PluginDevice; 28 StereoGain; 24 Reverb; 12 AutoFilter; 12 PingPongDelay; 8 Saturator; 4 Compressor2; 4 SpectrumAnalyzer; 

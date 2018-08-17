@@ -1,0 +1,3 @@
+external devices:
+15 MEqualizer; 4 SynplantVST; 3 Glass Viper; 2 PunchMulti; 1 Element of Surprise; internal devices:
+125 PluginDevice; 80 StereoGain; 75 Saturator; 30 Compressor2; 15 Reverb; 15 InstrumentImpulse; 10 AudioEffectGroupDevice; 5 Gate; 5 PingPongDelay; 

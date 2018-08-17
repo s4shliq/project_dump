@@ -1,0 +1,3 @@
+external devices:
+11 Albino3; 10 MEqualizer; 2 Dark Star Modular 4OSC; 1 Punch; internal devices:
+104 StereoGain; 96 PluginDevice; 36 Compressor2; 20 Reverb; 20 Saturator; 12 MidiVelocity; 12 InstrumentImpulse; 12 PingPongDelay; 8 OriginalSimpler; 4 AudioEffectGroupDevice; 4 Gate; 

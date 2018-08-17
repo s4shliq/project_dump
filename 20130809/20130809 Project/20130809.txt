@@ -1,0 +1,3 @@
+external devices:
+4 Reaktor5; 3 MEqualizer; 2 Dark Star Modular 4OSC; internal devices:
+27 PluginDevice; 24 StereoGain; 24 Saturator; 12 Reverb; 6 AutoFilter; 6 Compressor2; 3 InstrumentImpulse; 3 Gate; 

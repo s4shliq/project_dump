@@ -1,0 +1,3 @@
+external devices:
+24 MEqualizer; 2 Punch; 1 Alchemy; 1 Albino3; internal devices:
+164 StereoGain; 112 PluginDevice; 64 Reverb; 40 PingPongDelay; 36 Compressor2; 32 Saturator; 28 AudioEffectGroupDevice; 24 AutoFilter; 16 Chorus; 8 Resonator; 8 MultibandDynamics; 8 InstrumentImpulse; 4 Tube; 4 Gate; 4 OriginalSimpler; 4 MidiVelocity; 4 FilterDelay; 4 BeatRepeat; 4 AutoPan; 4 Phaser; 

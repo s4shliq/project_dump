@@ -1,0 +1,3 @@
+external devices:
+18 MEqualizer; 8 Albino3; 1 Element of Surprise; 1 dblue_Glitch_v1_3; 1 JJP-Vocals Stereo; internal devices:
+180 StereoGain; 145 PluginDevice; 105 Reverb; 45 Saturator; 30 PingPongDelay; 25 AudioEffectGroupDevice; 15 InstrumentImpulse; 15 Gate; 15 AutoPan; 10 Overdrive; 10 Corpus; 10 MidiVelocity; 10 Limiter; 5 MultiSampler; 5 Tube; 5 Compressor2; 5 OriginalSimpler; 5 CrossDelay; 5 FilterDelay; 5 AutoFilter; 5 BeatRepeat; 

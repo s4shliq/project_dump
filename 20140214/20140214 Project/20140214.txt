@@ -1,0 +1,3 @@
+external devices:
+25 MEqualizer; 5 Zebra2; 3 Albino3; 3 Reaktor5; 1 Blue; 1 Alchemy; 1 Glass Viper; internal devices:
+273 PluginDevice; 245 StereoGain; 112 Saturator; 91 Compressor2; 42 InstrumentImpulse; 35 Reverb; 28 PingPongDelay; 21 MidiVelocity; 14 MidiRandom; 14 AudioEffectGroupDevice; 7 AutoFilter; 

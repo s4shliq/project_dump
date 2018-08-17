@@ -1,0 +1,3 @@
+external devices:
+12 Zebra2; 11 MEqualizer; internal devices:
+46 PluginDevice; 32 StereoGain; 14 Saturator; 12 Reverb; 10 Compressor2; 4 InstrumentImpulse; 4 AudioEffectGroupDevice; 4 PingPongDelay; 2 AutoPan; 
