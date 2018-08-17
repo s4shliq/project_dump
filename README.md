@@ -2,16 +2,10 @@
 collected project of sashliq. frutyloops and ableton. i added a txt file with a list of needed plugins where possible.
 
 everything is under cc0-1.0 license. take it or leave it or do 
-whatever 
-you want :)
+whatever you want :)
 
 
-stats ->
-i recently pushed all of my producing projects to github and also decided to give everything into the public domain under cc0-1.0 license.it contains most of the projects i did in the last 15 years, mainly fruityloops and ableton. i added a txt file with a list of the needed plugins where possible.
-take it or leave it, you can do whatever you want with this stuff. if you have questions just ask. ->
-https://github.com/s4shliq/project_dump
-
-all time stats for ableton files only:
+ll time stats for ableton files only:
 
 
 processed projects: '167'
